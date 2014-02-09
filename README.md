@@ -1,7 +1,8 @@
 Temperature-Converter
 =====================
 
-My first Java project: a simple temperature converter.
+Simple temperature converter.
+My first Java project.
 
 Temperature units supported:
 - Celsius;
